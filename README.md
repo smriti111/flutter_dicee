@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Dicee 🎲
@@ -13,4 +13,4 @@ A simple dice rolling app. You can make the die roll at the press of a button. W
 
 
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
